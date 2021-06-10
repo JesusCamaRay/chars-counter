@@ -11,7 +11,7 @@ Para Windows, activar [WSL](https://docs.microsoft.com/en-us/windows/wsl/install
 Para correr el script, abrir la terminal.
 
 ```sh
-cd counter-chars
+cd chars-counter
 ```
 
 Para agregar permisos de ejecución
